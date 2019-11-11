@@ -1,0 +1,15 @@
+# IDEs
+*.vscode
+
+#latex
+*.aux
+*.cls
+*.fls
+*.log
+*.synctex.gz
+*.blg
+*.bbl
+*.bst
+*.fdb_latexmk
+*.pdf
+incidents-analysis.pdfs
